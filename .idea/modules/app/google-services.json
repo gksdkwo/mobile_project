@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473917772312",
+    "project_id": "doodling-4ed09",
+    "storage_bucket": "doodling-4ed09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473917772312:android:bbe525ab2557f2f83aa96d",
+        "android_client_info": {
+          "package_name": "com.example.doodling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473917772312-reuprtk8t0i33ut1gdm1vpjlj3jojesc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doodling",
+            "certificate_hash": "2dd9f7d1aa724b632c59e4662d253d3c05461a04"
+          }
+        },
+        {
+          "client_id": "473917772312-jo9tuevl63913jfuh58dafdf4vpu9lsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfn0qHG4I4ZU7-ejnz-lbL8Hw7wMf3Fu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473917772312-jo9tuevl63913jfuh58dafdf4vpu9lsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
